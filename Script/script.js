@@ -1,5 +1,5 @@
 let message = function(){
-    alert('Изучить git и github');
+    alert('Изучаем git и github');
 };
 
 document.getElementById('github').addEventListener('click', message);
