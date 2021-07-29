@@ -1,3 +1,5 @@
-document.getElementById('github').onclick = function(){
-    alert('Изучаю git и github');
-};hit
+let message = function(){
+    alert('Изучить git и github');
+};
+
+document.getElementById('github').addEventListener('click', message);
