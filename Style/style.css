@@ -1,0 +1,13 @@
+.block {
+    background: rgb(0, 0, 0);
+    color: white;
+}
+
+#github {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p {
+    font-size: 16px;
+    color: #11ffff
+}
